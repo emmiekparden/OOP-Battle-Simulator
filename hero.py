@@ -1,7 +1,7 @@
+import random
 class Hero:
-<<<<<<< Updated upstream
-    """The hero blueprint will be implemented later in the project."""
-=======
+
+
     def __init__(self, name):
         self.name = name
         self.health = 150
@@ -23,7 +23,3 @@ class Hero:
           return self.health > 0
 
 
-    
->>>>>>> Stashed changes
-
-    pass
